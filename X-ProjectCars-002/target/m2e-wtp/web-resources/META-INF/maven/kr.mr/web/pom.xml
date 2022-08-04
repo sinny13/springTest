@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>kr.mr</groupId>
 	<artifactId>web</artifactId>
-	<name>X-ProjectCars-100</name>
+	<name>X-ProjectCars-002</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
